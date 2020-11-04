@@ -1,0 +1,11 @@
+mode: set
+googleGo/8unitTest/1test/noRepeat.go:3.47,8.31 4 1
+googleGo/8unitTest/1test/noRepeat.go:18.2,18.18 1 1
+googleGo/8unitTest/1test/noRepeat.go:8.31,9.58 1 1
+googleGo/8unitTest/1test/noRepeat.go:12.3,12.28 1 1
+googleGo/8unitTest/1test/noRepeat.go:15.3,15.23 1 1
+googleGo/8unitTest/1test/noRepeat.go:9.58,11.4 1 1
+googleGo/8unitTest/1test/noRepeat.go:12.28,14.4 1 1
+googleGo/8unitTest/1test/triangle.go:9.17,12.2 2 0
+googleGo/8unitTest/1test/triangle.go:15.32,19.2 3 1
+googleGo/8unitTest/1test/triangle.go:21.13,23.2 1 0
